@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/zarinpal_technical_assessment/static/js/main.6a604493.chunk.js",
+    "main.js.map": "/zarinpal_technical_assessment/static/js/main.6a604493.chunk.js.map",
+    "runtime-main.js": "/zarinpal_technical_assessment/static/js/runtime-main.c5f62ff8.js",
+    "runtime-main.js.map": "/zarinpal_technical_assessment/static/js/runtime-main.c5f62ff8.js.map",
+    "static/js/2.4dfb010c.chunk.js": "/zarinpal_technical_assessment/static/js/2.4dfb010c.chunk.js",
+    "static/js/2.4dfb010c.chunk.js.map": "/zarinpal_technical_assessment/static/js/2.4dfb010c.chunk.js.map",
+    "index.html": "/zarinpal_technical_assessment/index.html",
+    "static/js/2.4dfb010c.chunk.js.LICENSE.txt": "/zarinpal_technical_assessment/static/js/2.4dfb010c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5f62ff8.js",
+    "static/js/2.4dfb010c.chunk.js",
+    "static/js/main.6a604493.chunk.js"
+  ]
+}
